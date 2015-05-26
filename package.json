@@ -1,0 +1,15 @@
+{
+  "name": "UAM_GitFlow",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michalmarkowski/UAM_GitFlow.git"
+  },
+  "author": "Michal Markowski",
+  "license": "ISC",
+  "homepage": "https://github.com/michalmarkowski/UAM_GitFlow",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2"
+  }
+}
